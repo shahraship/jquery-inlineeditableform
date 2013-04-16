@@ -1,7 +1,7 @@
 /**
  * Name:			Inline Editable Form
  * File:			jquery.ief.js
- * Version:			0.1 (Last Modified: 03/20/2013)
+ * Version:			0.0.1 (Last Modified: 03/20/2013)
  * Author:			Raship Shah (shahraship@gmail.com)
  * Description:		This jquery plugin is written to provide inline editable for a form.
  * ------------------------------------------------------------------------------------

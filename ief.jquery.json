@@ -1,0 +1,35 @@
+{
+    "name": "ief",
+    "title": "Inline Editable Form",
+    "description": "jQuery plugin for inline editable form.",
+    "keywords": [
+        "inline",
+        "editable",
+	"form"
+    ],
+    "version": "0.0.1",
+    "author": {
+        "name": "Raship Shah",
+        "url": "https://github.com/shahraship/jquery-inlineeditableform/AUTHORS.txt"
+    },
+    "maintainers": [
+        {
+            "name": "Raship Shah",
+            "email": "shahraship@gmail.com",
+            "url": "http://rashipshah.com"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/shahraship/jquery-inlineeditableform/MIT-LICENSE.txt"
+        }
+    ],
+    "bugs": "https://github.com/shahraship/jquery-inlineeditableform/issues",
+    "homepage": "https://github.com/shahraship/jquery-inlineeditableform",
+    "docs": "https://github.com/shahraship/jquery-inlineeditableform",
+    "download": "https://github.com/shahraship/jquery-inlineeditableform/archive/master.zip",
+    "dependencies": {
+        "jquery": ">=1.5"
+    }
+}

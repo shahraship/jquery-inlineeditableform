@@ -23,9 +23,11 @@ Basic usage
 &lt;/form&gt;  
 
 ``
+
 	$(document).ready(function() {  
 		$('.ief').ief();  
 	});  
+	
 
 ``
 Advanced usage

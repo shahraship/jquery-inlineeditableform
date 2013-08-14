@@ -22,17 +22,17 @@ Basic usage
 &lt;/dl&gt;  
 &lt;/form&gt;  
 
-``
+```
 
 	$(document).ready(function() {  
 		$('.ief').ief();  
 	});  
 	
 
-``
+```
 Advanced usage
 --------------
-``
+```
 	$(document).ready(function() {  
 		$('.ief').ief({  
 			onstart:function(){},  
@@ -40,4 +40,4 @@ Advanced usage
 			oncancel:function(){}  
 		});  
 	});  
-``
+```

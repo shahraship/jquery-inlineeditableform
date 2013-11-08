@@ -55,6 +55,14 @@
 			} else {
 				$obj=$('<input type="text" />');
 				$obj.css('width',$this.width()+20).css('height',$this.height());
+				$obj.keypress(function(e){
+					if (e.keyCode===13) {
+						$ok.trigger('click');
+						return false;
+					} else {
+						return true;
+					}
+				});
 			}
 			$obj.attr('name',$this.attr('id')).val($this.text());
 			if ($this.data('ief-attr')) {

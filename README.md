@@ -18,7 +18,6 @@ bower install jquery-ief
 ````
 
 ### Basic usage
-````
 
 ````html
 <form>

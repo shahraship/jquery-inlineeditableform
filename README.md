@@ -57,14 +57,13 @@ JQuery
 
 
 ### Advanced usage
-````
 
 ````html
 	$(document).ready(function() {  
-		$('.ief').ief({  
-			onstart:function(){},  
-			oncommit:function(){},  
-			oncancel:function(){}  
-		});  
-	});  
+		$('.ief').ief({
+			onstart:function(){},
+			oncommit:function(){},
+			oncancel:function(){}
+		});
+	});
 ````

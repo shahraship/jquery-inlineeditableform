@@ -1,0 +1,27 @@
+{
+  "name": "jquery-inlineeditableform",
+  "homepage": "https://github.com/shahraship/jquery-inlineeditableform",
+  "authors": [
+    "Raship Shah <shahraship@gmail.com>"
+  ],
+  "description": "An Inline Editable jQuery plugin that submits the entire form at once",
+  "main": "jquery.ief.js",
+  "keywords": [
+    "html",
+    "edit",
+    "inline",
+    "editor",
+    "jquery"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "*"
+  },
+}

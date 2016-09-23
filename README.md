@@ -5,7 +5,7 @@ This jquery plugin is written to provide inline editing capability for form.
 
 Many times users need to submit the entire form instead of incrementally submitting independent inline edits at a time.
 
-This plugin allows you turn text on web page into an editable field. The requirement is that the text be enclosed within a <form> tag.
+This plugin allows you turn text on web page into an editable field. The requirement is that the text be enclosed within a &lt;form&gt; tag.
 
 ## How to get it
 

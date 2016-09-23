@@ -10,7 +10,7 @@ This plugin allows you turn text on web page into an editable field. The require
 ## How to get it
 
 ### Manual download
-Use **http://vitalets.github.io/x-editable** main page.
+Use **https://github.com/shahraship/jquery-inlineeditableform** main page.
 
 ### Bower
 ````

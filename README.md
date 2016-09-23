@@ -28,7 +28,7 @@ HTML
 		<dt>Gender</dt>
 		<dd>
 			<span id="gender" class="ief" data-ief-edittype="select"
-				data-ief-selectvalues='[{label:"Male",value:"male"},{label:"Female",value:"female"}]'>Male</span>
+				data-ief-selectvalues='[{"label":"Male","value":"male","selected":true},{"label":"Female","value":"female"}]'>Male</span>
 		</dd>
 		<dd>
 			<span id="awesome" class="ief" data-ief-edittype="input:checkbox"

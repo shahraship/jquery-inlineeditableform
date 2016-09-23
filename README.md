@@ -7,8 +7,18 @@ Many times users need to submit the entire form instead of incrementally submitt
 
 This plugin allows you turn text on web page into an editable field. The requirement is that the text be enclosed within a <form> tag.
 
-Basic usage
------------
+## How to get it
+
+### Manual download
+Use **http://vitalets.github.io/x-editable** main page.
+
+### Bower
+````
+bower install jquery-ief
+````
+
+### Basic usage
+````
 
 HTML
 
@@ -50,8 +60,11 @@ JQuery
 	
 
 ```
-Advanced usage
---------------
+
+
+### Advanced usage
+````
+
 ```
 	$(document).ready(function() {  
 		$('.ief').ief({  

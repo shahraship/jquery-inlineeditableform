@@ -20,9 +20,7 @@ bower install jquery-ief
 ### Basic usage
 ````
 
-HTML
-
-```
+````html
 <form>
 	<dl>
 		<dt>Name</dt>
@@ -46,26 +44,23 @@ HTML
 		</dd>
 	</dl>
 </form>
-
-
-```
+````
 
 JQuery
 
-```
+````html
 
 	$(document).ready(function() {  
 		$('.ief').ief();  
 	});  
 	
-
-```
+````
 
 
 ### Advanced usage
 ````
 
-```
+````html
 	$(document).ready(function() {  
 		$('.ief').ief({  
 			onstart:function(){},  
@@ -73,4 +68,4 @@ JQuery
 			oncancel:function(){}  
 		});  
 	});  
-```
+````
